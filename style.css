@@ -1,0 +1,25 @@
+* {
+    font-size: x-large;
+}
+
+header div {
+    display: flex;
+    justify-content: space-between;
+}
+
+header p {
+    margin: 30px;
+}
+
+header div img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+main div img {
+    width: 500px;
+}
+
+main div p {
+    margin-right: 50%;
+}
